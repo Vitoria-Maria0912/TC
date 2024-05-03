@@ -2,7 +2,7 @@
 Atividades em Grupo de Teoria da Computação - 2023.2 UFCG
 
 
-Os EPs foram desenvolvidos em conjunto:
+Os EPs foram desenvolvidos em equipe:
 
 - Caroline Cordeiro - [Github](https://github.com/carolcordeiro)
 - Francisco Dantas - [Github](https://github.com/franciscodantas)
